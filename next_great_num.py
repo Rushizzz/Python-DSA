@@ -26,8 +26,6 @@ def next_great_number(nums):
                 j = i + 1
     return nums
 
-# print(next_great_number(test_cases[0]))  # Expected output: [2,3,4,-1]
-
 for case in test_cases:
     print(next_great_number(case))
 # Expected outputs:
