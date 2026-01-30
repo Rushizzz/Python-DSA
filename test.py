@@ -1,4 +1,7 @@
-str = ""
-str += "a"
-str = str.pop
-print(str)
+a = [0,0]
+b = [0,0]
+
+if a == b:
+    print("True")
+else:
+    print("False")
