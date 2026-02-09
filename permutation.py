@@ -17,4 +17,3 @@ def permutation(curr):
 
 permutation(curr)
 print(ans)
-
