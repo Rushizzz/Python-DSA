@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 __pycache__/
 venv/
+=======
+/vnev
+/env_dsa
+/.vscode
+>>>>>>> db21f75276da40472f9ceff23607c99bf56295d3
