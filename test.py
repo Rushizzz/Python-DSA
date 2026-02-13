@@ -1,7 +1,5 @@
-a = [0,0]
-b = [0,0]
+l = [1,2,3]
+print(l)
 
-if a == b:
-    print("True")
-else:
-    print("False")
+l.clear()
+print(l)
